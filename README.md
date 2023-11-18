@@ -1,1 +1,2 @@
-Hello this is the README
+# GlobeTrotter
+![Project logo]("src\icons\readmelogo.jpeg")
