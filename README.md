@@ -1,2 +1,2 @@
 # GlobeTrotter
-![Project logo](src\icons\readmelogo.jpeg)
+![Project logo](src/icons/readmelogo.jpeg)
